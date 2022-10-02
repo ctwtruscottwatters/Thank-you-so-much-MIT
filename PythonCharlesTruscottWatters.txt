@@ -1,0 +1,138 @@
+declarative knowledge vs. imperative knowledge
+
++ - * / // % ** ( ) += -= *= /= //= %= **=
+!= == and or not < <= > >=
+& | ^ ~ << >> &= |= ^= ~= <<= >>=
+. * ** [ ] [:] [::] [i][j][k] ; __ : , =
+
+int, float, string, set, tuple, list, dictionary, boolean, class, object, method, function, function invocation, function return, expression, combination
+
+True, False, lambda, yield, from x import y as z
+break, continue, is, is not, in, as
+assert, global, nonlocal, pass, del
+
+try:
+
+except Error as e:
+
+finally:
+
+else:
+
+e.method
+Error as e
+
+def function(args):
+	body
+	return
+
+abstraction, decomposition
+
+def main():
+	body
+
+if __name__ == "__main__": main()
+
+for x in range(start, stop + 1, step):
+for x in iterable: (e.g. set, tuple, list, dictionary, string)
+
+for x in a:
+	for y in b:
+
+for x in a:
+	for y in x:
+
+while (bool):
+	while (bool):
+
+def recursive_function(a, b):
+	base case 1:
+	base case 2:
+	base case x:
+	body
+	recursive call
+	return
+
+iteration, recursion
+
+if (bool):
+	if (bool):
+		if (bool):
+
+		elif (bool):
+		elif (bool):
+		else:
+
+	elif (bool):
+	elif (bool):
+	else:
+
+elif (bool):
+elif (bool):
+else:
+
+
+match (object):
+
+	case x:
+		body
+	case y:
+		body
+	case z:
+		body
+
+branching, control flow
+
+class ArithmeticOperation(object):
+	def __init__(self, x, y, result=0):
+		self.x = x
+		self.y = y
+		self.result = result
+	def __repr__(self):
+		pass
+
+	def __str__(self):
+		pass
+
+class Fraction(ArithmeticOperation):
+	def __init__
+
+Algorithmic Complexity
+Standard Library
+Approximation, Searching, Sorting
+Object Oriented Programming
+Program Specification, Requirements Analysis, System Theory
+Algorithms and Data Structures
+Thought Experiments
+
+Algorithmic Complexity
+
+	- random access machine (sequential execution of steps one step at a time)
+
+	- step (an operation that takes a fixed amount of time)
+
+	- time constraint (a constraint on the time a program has to execute)
+
+	- size of input arbitrarily large or arbitrarily small
+
+	- dominant algebraic term in running time of algorithm
+
+	- operation / operator / loop / branch leading dominant algebraic term (dominant operation)
+
+	- running time (actual .s / conceptual alg.)
+
+		- best case, worst case, average case
+
+		- lower bound, upper bound
+
+	- counting operations, operators, iteration, recursion, branches
+
+	- O(n) n -> infinity
+
+	- θ(n) n -> any number, n -> 0, n -> infinity
+
+
+constant, linear, logarithmic, log-linear, polynomial, exponential, graphing algorithmic running time and complexity, counting steps of dominant operation, operator, iteration, recursion, counting steps of branches, algebraic terms
+
+
+

@@ -1,0 +1,174 @@
+1. Error Handling
+2. Working with Characters and Strings
+3. Kernel Objects
+4. Processes
+5. Jobs
+6. Thread Basics
+7. Thread Scheduling, Priorities, and Affinities
+8. Thread Synchronization in User Mode
+9. Thread Synchronization with Kernel Objects
+10. Synchronous and Asynchronous Device I/O
+11. The Windows Thread Pool
+12. Fibers
+13. Windows Memory Architecture
+14. Exploring Virtual Memory
+15. Using Virtual Memory in Your Own Applications
+16. A Thread's Stack
+17. Memory-Mapped Files
+18. Heaps
+19. DLL Basics
+20. DLL Advanced Techniques
+21. Thread-Local Storage
+22. DLL Injection and API Hooking
+23. Termination Handlers
+24. Exception Handlers and Software Exceptions
+25. Unhandled Exceptions, Vectored Exception Handling, and C++ Exceptions
+26. Error Reporting and Application Recovery
+
+A. The Build Environment
+B. Message Crackers, Child Control Macros, and API Macros
+
+
+1. Error Handling
+
+	1.1
+
+
+2. Working with Characters and Strings
+
+	2.1
+
+
+3. Kernel Objects
+
+	3.1
+
+
+4. Processes
+
+	4.1
+
+
+5. Jobs
+
+	5.1
+
+
+6. Thread Basics
+
+	6.1
+
+
+7. Thread Scheduling, Priorities, and Affinities
+
+	7.1
+
+
+8. Thread Synchronization in User Mode
+
+	8.1
+
+
+9. Thread Synchronization with Kernel Objects
+
+	9.1
+
+
+10. Synchronous and Asynchronous Device I/O
+
+	10.1
+
+
+11. The Windows Thread Pool
+
+	11.1
+
+
+12. Fibers
+
+	12.1
+
+
+13. Windows Memory Architecture
+
+	13.1
+
+
+14. Exploring Virtual Memory
+
+	14.1
+
+
+15. Using Virtual Memory in Your Own Applications
+
+	15.1
+
+
+16. A Thread's Stack
+
+	16.1
+
+
+17. Memory-Mapped Files
+
+	17.1
+
+
+18. Heaps
+
+	18.1
+
+
+19. DLL Basics
+
+	19.1
+
+
+20. DLL Advanced Techniques
+
+	20.1
+
+
+21. Thread-Local Storage
+
+	21.1
+
+
+22. DLL Injection and API Hooking
+
+	22.1
+
+
+23. Termination Handlers
+
+	23.1
+
+
+24. Exception Handlers and Software Exceptions
+
+	24.1
+
+
+25. Unhandled Exceptions, Vectored Exception Handling, and C++ Exceptions
+
+	25.1
+
+
+26. Error Reporting and Application Recovery
+
+	26.1
+
+
+A. The Build Environment
+
+	A.1 -
+	A.2 -
+
+
+B. Message Crackers, Child Control Macros, and API Macros
+
+	B.1 -
+	B.2 -
+	B.3 -
+	B.4 -
+
