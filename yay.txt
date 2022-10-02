@@ -1,4 +1,7 @@
+Charles Thomas Wallace Truscott, Certificate in Computer Science and Programming using Python (6.0001) MIT
+
 declarative vs imperative knowledge
+
 
 + - * / // % ** ( ) += -= *= /= //= %= **=
 
@@ -16,6 +19,7 @@ assert, global, nonlocal, pass, del
 
 try, except, finally, else, error as e, e.method
 
+
 def function(args):
 	body
 	return
@@ -26,6 +30,7 @@ def main():
 	body
 
 if __name__ == "__main__": main()
+
 
 for x in range(start, stop, step):
 for x in iterable: (e.g. set, tuple, list, dictionary, string)
@@ -46,6 +51,7 @@ def recursive(a, b):
 	body
 	recursive call
 	return
+
 
 iteration, recursion
 
@@ -75,6 +81,7 @@ match (object):
 		body
 
 branching, control flow, conditionals
+
 
 Algorithmic Complexity
 Standard Library
@@ -187,8 +194,51 @@ concurrent.futures
 gettext
 locale
 
+ipaddress
 socket
-urllib
+selectors
+select
+socketserver
+
+urllib.parse
+urllib.request
+urllib.robotparser
+base64
+http.server
+http.cookies
+uuid
+json
+xmlrpc.client
+xmlrpc.server
+webbrowser
+
+argparse
+getopt
+readline
+getpass
+cmd
+shlex
+configparser
+logging
+fileinput
+atexit
+sched
+
+pydoc
+doctest
+unittest
+trace
+traceback
+cgitb
+pdb
+profile
+pstats
+timeit
+tabnanny
+compileall
+pyclbr
+venv
+ensurepip
 
 site
 sys
@@ -214,6 +264,7 @@ Algorithm -> A set of definitions given and steps taken in order to solve a well
 Data Structure -> A way of organising and formatting data for an algorithm to process
 Data -> A fundamental and primitive unit of information
 
+
 Exhaustive Enumeration
 Branch and Bound
 Greedy Algorithm
@@ -221,6 +272,97 @@ Dynamic Programming
 Recursive Algorithm
 Divide and Conquer
 Randomized Algorithm
+
+Sum of Two Digits
+Maximum Pairwise Product
+Fibonacci Number Generation
+Greatest Common Divisor
+Least Common Multiple
+
+Fibonacci Number Example #2
+Last Digit of the Sum of Fibonacci Numbers
+Last Digit of the Partial Sum of Fibonacci Numbers
+Last Digit of the Sum of Squares of Fibonacci Numbers
+Money Change
+
+Maximizing the Value of the Loot
+Car Fueling
+Maximum Product of Two Sequences
+Covering Segments by Points
+Distinct Summands
+Largest Concatenate
+
+Sorted Array Multiple Search
+Majority Element
+Improving QUICKSORT
+Number of Inversions
+
+Points and Segments
+Closest Points
+
+Money Change Again
+Primitive Calculator
+Edit Distance (Strings)
+
+Longest Common Subsequence of Two Sequences
+Longest Common Subsequence of Three Sequences
+Maximum Amount of Gold
+
+3-Partition
+Maximum Value of an Arithmetic Expression
+
+Eight Queens
+Hanoi Towers
+Covering Segments by Points
+Overlapping Segments
+Largest Concatenate
+Black and White Squares
+Twenty-One Questions
+Book Sorting
+Number of Paths
+Antique Calculator
+Two Rocks
+Three Rocks
+Map Coloring
+Clique Finding
+Icosian Game
+Guarini Puzzle
+Room Assignment
+Tree Construction
+Subway Lines
+
+
+
+DATA STRUCTURES
+
+	Arrays and Lists
+	Priority Queues
+	Disjoint Sets
+	Hash Tables
+	Binary Search Trees
+
+Algorithms on Graphs
+
+	Graphs Decomposition
+	Shortest Path
+	Minimum Spanning Tree
+	Shortest Paths Examples
+
+Algorithms on Strings
+
+	Pattern Matching
+	Suffix Trees
+	Suffix Arrays
+	Burrows-Wheeler Transform
+
+Advanced Algorithms and Complexity
+
+	Flows in Networks
+	Linear Programming
+	NP-complete problems
+	Coping with NP-completeness
+	Streaming Algorithms
+
 
 privileged characteristic
 prototype characteristic
